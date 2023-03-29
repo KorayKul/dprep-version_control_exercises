@@ -1,2 +1,4 @@
 Open up Notepad (Windows) or TextEdit (Mac), create a new text file my_answers.txt, and save it into version-control-exercises. Run git status again, what does it say?
-Adding new line to see what happens on local branch changing second line locally
+
+
+Consistantly add this
