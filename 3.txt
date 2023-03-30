@@ -1,0 +1,6 @@
+Open up Notepad (Windows) or TextEdit (Mac), create a new text file my_answers.txt, and save it into version-control-exercises. Run git status again, what does it say?
+
+
+Consistantly add this
+
+okwerfmoinqfin
